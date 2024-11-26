@@ -1,0 +1,35 @@
+*{
+    margin: 0;  padding: 0;  box-sizing: border-box;
+}
+body{
+    background-color: #CD5D5D;
+}
+span{
+    color: yellow;
+}
+h1{
+    text-align: center;
+    margin-top: 38px;
+}
+.q{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 40px;
+}
+.card{
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 360px;
+    height: 300px;
+    padding: 30px;
+    flex-wrap: wrap;
+  
+   
+}
+h3{
+    text-align: center;
+}
+.qator3{
+    display: flex; flex-wrap: wrap;  margin-top: 30px; justify-content: space-between; gap: 30px;
+}
